@@ -1,0 +1,9 @@
+configuration={
+    'batch_size':16,
+    'model_input_size':224,
+    'n_epoch':10,
+    'learning_rate':0.0001,
+    'train_csv_pth':'data/training_frames_keypoints.csv',
+    'test_csv_pth':'data/test_frames_keypoints.csv',
+    'saved_path':'v1'
+}
